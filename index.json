@@ -134,7 +134,8 @@
 					{
 						"when": "7/15",
 						"type": "contra",
-						"service": "cleaning"
+						"service": "cleaning",
+						"Dr": 100
 					}
 					
 				]
@@ -145,7 +146,8 @@
 					{
 						"when": "6/10",
 						"type": "contra",
-						"service": "cleaning"
+						"service": "cleaning",
+						"Cr": 100
 					}
 					
 				]
